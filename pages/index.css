@@ -31,7 +31,13 @@
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
-
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/logo/resources__logo.css);
+@import url(../blocks/resources/logo/_arzamas/resources__logo_arzamas.css);
+@import url(../blocks/resources/logo/_n1/resources__logo_n1.css);
+@import url(../blocks/resources/logo/_polka/resources__logo_polka.css);
+@import url(../blocks/resources/logo/_strelka/resources__logo_strelka.css);
 
 /* Не используются селекторы по тегу
 !! сбрасывать на уровне блока
