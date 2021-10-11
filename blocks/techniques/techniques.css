@@ -1,9 +1,6 @@
 .techniques {
   width: 80%;
-  margin: 0 auto;
+  margin: auto;
+  padding-top: 100px;
 }
 
-
-.techniques * {
-  border: 1px solid red;
-}
