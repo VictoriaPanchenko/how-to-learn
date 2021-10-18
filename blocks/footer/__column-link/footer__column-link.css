@@ -2,6 +2,8 @@
   margin: 0 0 10px 0;
   padding: 0;
   transition: opacity 0.3s;
+  text-decoration: none;
+  color: white;
 }
 
 .footer__column-link:hover {
