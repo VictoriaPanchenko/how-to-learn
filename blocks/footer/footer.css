@@ -1,6 +1,7 @@
 .footer {
+  box-sizing: border-box;
   min-height: 350px;
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
   padding-top: 60px;
   padding-bottom: 40px;
