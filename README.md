@@ -1,7 +1,7 @@
-# how-to-learn
+# Static web page using BEM methodology
 
-Static web page
+http://getbem.com/
 
-used technology - html 5 and css
+
 
 
