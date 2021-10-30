@@ -1,6 +1,6 @@
 # Static web page using BEM methodology
 
-http://getbem.com/
+https://en.bem.info/
 
 
 
